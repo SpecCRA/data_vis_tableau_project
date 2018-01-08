@@ -16,3 +16,10 @@ This project looks at the top 50 NBA scoring seasons by points per game since 19
 ## Credits
 * All data is scraped from [basketball-reference.com](https://www.basketball-reference.com/)
 * Visualization done on [Tableau Desktop](https://www.tableau.com/)
+
+## Technology used
+* **Python 3**
+* **Beautifulsoup4**
+* **Jupyter Notebook**
+* **Pandas** 
+* **Tableau**
